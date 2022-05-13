@@ -64,7 +64,7 @@ setup(
 
     install_requires=[
         "pysaml2==7.1.2",
-        "PyJWT==2.3.0",
+        "PyJWT==2.4.0",
         "dictor==0.1.9"
     ],
     include_package_data=True,
